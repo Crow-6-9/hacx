@@ -1,0 +1,11 @@
+{
+    "subscription_id": "37f5d79e-16ef-403d-b9e9-73bd70306913",
+    "resource_group": "rg-odl_user_2177228-9197_ai",
+    "workspace_name": "odl_user_2177228-9144",
+    "training_data_path": "../data/enriched_tickets.jsonl",
+    "base_model": {
+        "name": "mistral-medium-2505",
+        "version": "1"
+    },
+    "finetuned_model_name": "mistral-medium-2505-finetuned"
+}
